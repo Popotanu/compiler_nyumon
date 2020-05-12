@@ -1,6 +1,8 @@
-tmp/
-<<<<<<< HEAD
-=======
-tmp.s
-tmpp
->>>>>>> an_integer
+*~
+*.o
+tmp*
+tmpp*
+a.out
+tanucc
+*.un~
+todo*
