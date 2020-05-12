@@ -1,3 +1,8 @@
-tmp/
-tmp.s
-tmpp
+*~
+*.o
+tmp*
+tmpp*
+a.out
+tanucc
+*.un~
+todo*
