@@ -1,4 +1,4 @@
-CFLAGS=c11 -g -static
+CFLAGS=-std=c11 -g -static
 
 tanucc: tanucc.c
 
